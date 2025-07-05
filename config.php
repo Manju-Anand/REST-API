@@ -13,5 +13,5 @@ if ($conn === false) {
 }
 
 // Define secure API token
-define('API_TOKEN', 'b93F8dj28DhxX7dfds35235gfj80dsdsfAz09NgG3Lp92slQoK4'); // Change this to a strong value
+define('API_TOKEN', 'your key here'); // Change this to a strong value
 ?>
