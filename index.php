@@ -2,7 +2,7 @@
 require_once 'curl_helper.php';
 
 $restAPIBaseURL = 'http://localhost/php/REST-API';
-$token = 'b93F8dj28DhxX7dfds35235gfj80dsdsfAz09NgG3Lp92slQoK4';
+$token = 'your key here';
 
 $headers = [
     "Authorization: Bearer $token"
